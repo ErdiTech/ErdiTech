@@ -9,7 +9,7 @@ We publish test conditions, public prices, datasheets, STEP files and open drive
 - Model pages, datasheets, 3D files, public prices: [erdilrf.com/models](https://erdilrf.com/models/)
 - Drivers (Python `pip install erdi-lrf`, Arduino, ROS 2): [erdi-lrf-drivers](https://github.com/ErdiTech/erdi-lrf-drivers)
 - Arduino library (Library Manager: ErdiLRF): [ErdiLRF](https://github.com/ErdiTech/ErdiLRF)
-- ROS 2 driver: [erdi_lrf_ros2](https://github.com/ErdiTech/erdi_lrf_ros2)
+- ROS 2 driver: [erdi_lrf_driver](https://github.com/ErdiTech/erdi_lrf_driver)
 - ArduPilot rangefinder driver (upstream pull request, open): [ArduPilot/ardupilot#34983](https://github.com/ArduPilot/ardupilot/pull/34983)
 
 ## Open data and tools
