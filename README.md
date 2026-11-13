@@ -7,6 +7,7 @@ We publish test conditions, public prices, datasheets, STEP files and open drive
 ## Start here
 
 - Model pages, datasheets, 3D files, public prices: [erdilrf.com/models](https://erdilrf.com/models/)
+- Integration docs (wiring, UART frames, ArduPilot / ROS 2 / Python): [erdilrf.com/docs](https://erdilrf.com/docs/)
 - Drivers (Python `pip install erdi-lrf`, Arduino, ROS 2): [erdi-lrf-drivers](https://github.com/ErdiTech/erdi-lrf-drivers)
 - Arduino library (Library Manager: ErdiLRF): [ErdiLRF](https://github.com/ErdiTech/ErdiLRF)
 - ROS 2 driver: [erdi_lrf_driver](https://github.com/ErdiTech/erdi_lrf_driver)
@@ -23,5 +24,7 @@ We publish test conditions, public prices, datasheets, STEP files and open drive
 | Curated list of rangefinder / LiDAR module resources | [awesome-laser-rangefinder](https://github.com/ErdiTech/awesome-laser-rangefinder) |
 
 ## Contact
+
+ERDI TECH LTD, Room 2812, 28/F, Building 3, No. 88 Jiaozi Avenue, Chengdu 610041, Sichuan, China
 
 tommy@erdimail.com - +86 133 0819 5790 - [erdilrf.com](https://erdilrf.com)
