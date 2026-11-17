@@ -15,11 +15,13 @@ We publish test conditions, public prices, datasheets, STEP files and open drive
 
 ## Open data and tools
 
+All tools in one place: [erditech.github.io](https://erditech.github.io/)
+
 | What | Where |
 |---|---|
-| 109-module comparison dataset (8 manufacturers, source URL + capture date per row) | [GitHub](https://github.com/ErdiTech/laser-rangefinder-module-database) / [Hugging Face](https://huggingface.co/datasets/erdilrf/laser-rangefinder-module-database) / [Zenodo DOI 10.5281/zenodo.24125642](https://doi.org/10.5281/zenodo.24125642) |
+| Laser rangefinder / LiDAR module database: 165 rangefinder modules (179 rows incl. scanners and laser sources) from 12 manufacturers, source URL + capture date per row, alternatives and selection pages | [GitHub](https://github.com/ErdiTech/laser-rangefinder-module-database) / [Hugging Face](https://huggingface.co/datasets/erdilrf/laser-rangefinder-module-database) / [Zenodo DOI 10.5281/zenodo.24125642](https://doi.org/10.5281/zenodo.24125642) |
 | Per-model UART protocol facts (unit of one raw count, baud, frame) | [Hugging Face](https://huggingface.co/datasets/erdilrf/erdi-lrf-uart-protocols) |
-| UART frame decoder (WebSerial + Python) | [Live](https://erditech.github.io/lrf-uart-protocol-decoder/) / [Hugging Face Space](https://huggingface.co/spaces/erdilrf/lrf-uart-protocol-decoder) |
+| UART frame decoder for Benewake, LightWare, JRT, Nooploop, DFRobot and ERDI modules (WebSerial + Python, `pip install lrf-uart-decoder`) | [Live](https://erditech.github.io/lrf-uart-protocol-decoder/) / [GitHub](https://github.com/ErdiTech/lrf-uart-protocol-decoder) / [Hugging Face Space](https://huggingface.co/spaces/erdilrf/lrf-uart-protocol-decoder) |
 | UAV laser altimeter guide | [GitHub](https://github.com/ErdiTech/drone-altimeter-laser-rangefinder-guide) / [Zenodo DOI 10.5281/zenodo.24125656](https://doi.org/10.5281/zenodo.24125656) |
 | Curated list of rangefinder / LiDAR module resources | [awesome-laser-rangefinder](https://github.com/ErdiTech/awesome-laser-rangefinder) |
 
