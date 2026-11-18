@@ -2,6 +2,8 @@
 
 **905 nm and 1535 nm laser rangefinder modules for OEM integration** - Chengdu, China.
 
+ERDI TECH LTD (铒迪科技) sells these modules as **ERDI LASER** and **ERDILRF**. Official sites: [erdilrf.com](https://erdilrf.com/) (catalog, prices, ordering) and [erditech.com](https://erditech.com/) (ERDI TECH brand home and open tools). Brand pages: [ERDI LASER](https://erdilrf.com/erdi-laser/), [ERDI TECH](https://erdilrf.com/erdi-tech/), [铒迪激光](https://erdilrf.com/zh/erdi-laser/).
+
 We publish test conditions, public prices, datasheets, STEP files and open drivers so an engineer can select and integrate a module without asking sales first.
 
 ## Start here
@@ -15,7 +17,7 @@ We publish test conditions, public prices, datasheets, STEP files and open drive
 
 ## Open data and tools
 
-All tools in one place: [erditech.github.io](https://erditech.github.io/)
+All tools in one place: [erditech.com](https://erditech.com/)
 
 | What | Where |
 |---|---|
